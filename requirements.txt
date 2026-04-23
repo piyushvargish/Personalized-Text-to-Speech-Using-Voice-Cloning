@@ -1,0 +1,11 @@
+streamlit
+torch==2.1.2
+torchaudio==2.1.2
+TTS
+speechbrain==0.5.16
+huggingface_hub==0.19.4
+soundfile
+librosa
+numpy
+streamlit-audiorec
+pydub
